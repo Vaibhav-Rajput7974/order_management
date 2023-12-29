@@ -1,0 +1,11 @@
+
+y
+java:S1488R"dImmediately return this expression instead of assigning it to the temporary variable "responseItem".(ÓëÄ(
+f
+java:S36555"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(êèÎ¤
+E	java:S106%"+Replace this use of System.out by a logger.(‹Ø“şÿÿÿÿ
+P	java:S125)"<This block of commented-out lines of code should be removed.(âÃf
+E	java:S106."+Replace this use of System.out by a logger.(¥àôùÿÿÿÿ
+?	java:S1069"+Replace this use of System.out by a logger.(àŸ’8
+P
+java:S2209M"5Change this instance-reference to a static reference.(æôÂûÿÿÿÿ
